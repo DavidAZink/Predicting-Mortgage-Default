@@ -1,2 +1,2 @@
 # Predicting-Mortgage-Default
-Train a neural network and logistic regression to predict mortgage default
+Train a neural network and logistic regression model to predict mortgage default using Keras and Tensorflow in Python. 
